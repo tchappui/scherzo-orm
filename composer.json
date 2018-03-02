@@ -1,0 +1,13 @@
+{
+    "name": "tchappui/scherzo-orm",
+    "description": "Scherzo-orm is the basic object relational mapper component used by the Scherzo educational web framework.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thierry Chappuis",
+            "email": "thierry@chappuis.io"
+        }
+    ],
+    "require": {}
+}
